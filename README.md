@@ -1,5 +1,8 @@
+#Dog's breed Classifier
+ML work
 # Hachi
-Dog's breed Classifier and Similar Dogs search engine. An Flask app to classify Dog's type and Find similar dogs.
+Dog's breed Classifier
+ML workand Similar Dogs search engine. An Flask app to classify Dog's type and Find similar dogs.
 Instructions
 Run Classification:
 ## Train Model - 
